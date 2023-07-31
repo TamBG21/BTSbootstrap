@@ -1,0 +1,12 @@
+img{
+    width: 40%;
+}
+
+.accordion-button{
+    background-color: beige;
+    color: black;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: aquamarine;
+}
